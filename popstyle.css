@@ -1,16 +1,42 @@
-@import url();
-body{
-    background-image: url("anya.jpg");
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 15px;
-    background-repeat: no-repeat;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('anya.jpg');
     background-size: cover;
-}
-h1{
-    color: blueviolet;
-    margin-left: 20px;
-}
-p{
-    color: blue;
-    margin-left: 20px;
-}
+    background-repeat: no-repeat;
+    
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 5px;
+    font-size: 35px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+  }
